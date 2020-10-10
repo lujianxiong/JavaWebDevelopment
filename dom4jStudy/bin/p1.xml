@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person> 
+  <p1 id1="aaaa"> 
+    <name>songyanfei</name>  
+    <school>鲁大师</school>  
+    <age>300</age>  
+    <sex>nv</sex>  
+    <sex>nv</sex>  
+    <sex>nv</sex>  
+    <sex>nv</sex>  
+    <sex>nv</sex> 
+  </p1>  
+  <p1> 
+    <name>tongyao</name>  
+    <age>30</age> 
+  </p1> 
+</person>

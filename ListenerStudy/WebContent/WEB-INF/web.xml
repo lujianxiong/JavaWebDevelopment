@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+	<listener>
+		<listener-class>cn.daxiong.web.listener.AListener</listener-class>
+	</listener>
+	
+</web-app>

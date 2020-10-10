@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+	<servlet>
+		<servlet-name>xxx</servlet-name>
+		<servlet-class>cn.daxiong.web.servlet.AServlet</servlet-class>
+		<init-param>
+			<param-name>宋妍霏</param-name>
+			<param-value>女神1</param-value>
+		</init-param>
+		<init-param>
+			<param-name>唐嫣</param-name>
+			<param-value>女神2</param-value>
+		</init-param>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>xxx</servlet-name>
+		<url-pattern>/AS</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+		<servlet-name>yyy</servlet-name>
+		<servlet-class>cn.daxiong.web.servlet.EServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>yyy</servlet-name>
+		<url-pattern>/EServlet</url-pattern>
+	</servlet-mapping>
+	
+	<context-param>
+		<param-name>context-name</param-name>
+		<param-value>context-value</param-value>
+	</context-param>
+  
+</web-app>
+
+
+
+
+
+
+
+
+
+
+

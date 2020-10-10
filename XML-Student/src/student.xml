@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student> 
+  <stu> 
+    <id>001</id>  
+    <name>宋妍霏</name>  
+    <age>24</age> 
+  </stu>  
+  <stu> 
+    <id>002</id>  
+    <name>童瑶</name>  
+    <age>28</age> 
+  </stu> 
+</student>

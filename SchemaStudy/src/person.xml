@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.daxiong.com/20200725"
+xsi:schemaLocation="http://www.daxiong.com/20200725 1.xsd" id1="123">
+	<name>zhangsan</name>
+	<name>lisi</name>
+	<name>wangwu</name>
+	<age>20</age>
+</person>

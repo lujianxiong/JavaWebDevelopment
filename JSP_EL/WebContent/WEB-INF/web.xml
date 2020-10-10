@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<context-param>
+		<param-name>xxx</param-name>
+		<param-value>XXX</param-value>
+	</context-param>
+	<context-param>
+		<param-name>yyy</param-name>
+		<param-value>YYY</param-value>
+	</context-param>
+
+</web-app>
